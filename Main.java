@@ -38,7 +38,7 @@ public class Main {
       {
           znak1 = napis2.charAt(i);  
           kod1 = (int) znak1; 
-     if(kod1 >=122 && kod1 <=97)
+     if(kod1 >=65 && kod1 <=90)
           {
     
               kod1 = kod1 - 32;
